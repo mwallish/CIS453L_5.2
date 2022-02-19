@@ -1,0 +1,122 @@
+#first {
+    position: relative;
+    left: 10px;
+}
+
+#last {
+    position: relative;
+    left: 210px;
+    top: -100px;
+}
+
+#add {
+    position: relative;
+    top: -100px;
+    left: 10px;
+}
+
+#address {
+    width: 370px;
+}
+
+#cty {
+    position: relative;
+    top: -100px;
+    left: 10px;
+}
+
+#city {
+    width: 100px;
+}
+
+#sta {
+    position: relative;
+    top: -200px;
+    left: 130px;
+}
+
+#state {
+    width: 100px;
+}
+
+#zip {
+    position:relative;
+    top: -300px;
+    left: 250px;
+}
+
+#zipCode {
+    width: 133px;
+}
+
+#driver {
+    position: relative;
+    top: -280px;
+    left: 10px;
+}
+
+#licenseNO {
+    width: 380px;
+    box-shadow: 1px 1px 1px black inset;
+}
+
+form {
+    background-color: #E5E5E5;
+    border: black;
+    border-style: solid;
+    border-right-width: 500px;
+}
+
+#createAccount {
+    background-color: orange;
+    border-color: black;
+    width: 200px;
+    box-shadow: 0px 1px black;
+}
+
+#cancel {
+    background-color: #FFFFFF;
+    border-color: black;
+    width: 150px;
+    box-shadow: 0px 1px black;
+}
+
+#canc {
+    position: relative;
+    top: -240px;
+    left: 10px;
+}
+
+#create {
+    position: relative;
+    top: -261px;
+    left: 197px;
+}
+
+#fName {
+    box-shadow: 1px 1px 1px black inset;
+}
+
+#lName {
+    box-shadow: 1px 1px 1px black inset;
+}
+
+#address {
+    box-shadow: 1px 1px 1px black inset;
+}
+
+#city {
+    box-shadow: 1px 1px 1px black inset;
+}
+
+#state {
+    box-shadow: 1px 1px 1px black inset;
+}
+
+#zipCode {
+    box-shadow: 1px 1px 1px black inset;
+}
+
+#fnl, #lnl, #addl, #cl, #sl, #zl, #dl, h1 {
+    font-family: Yu Gothic;
+}
