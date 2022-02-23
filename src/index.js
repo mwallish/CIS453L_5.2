@@ -1,10 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+import logo from "./DMVLogo.jpeg";
 
 const createAccount = (
     <div>
-        <img src="./DMVLogo.jpeg" alt="DMV Logo"/>
+        <img src={logo} alt="DMV Logo" />
 
         <h1>Create Customer Account</h1>
 
